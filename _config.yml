@@ -39,7 +39,7 @@ roles:
    start: 2019
    end: Ongoing
    employer: CopperPoint Insurance Companies
-   description: Building and managing public consumer facing digital products of CopperPoint on web and mobile that has countrywide daily active users. The application has React on front-end interfacing with Guidwire Insurance suite applications.
+   description: Building and managing public consumer facing digital products of CopperPoint on web and mobile that has countrywide daily active users.
  - title: Senior Consultant
    start: 2018
    end: 2019
@@ -74,8 +74,8 @@ github:
  - siddixit/Jquery-Datatables-Custom-Column-VIew
 
 intro: |
-  I am a Senior Software Engineer with 10 years experience working in technology. Over the last decade, I have designed and shipped enterprise solutions for fortune 500 companies involving web/server side applications developed from scratch, delivered human centered digital experiences, orchestrated enterprise API's and systems integrations and built seamless automation pipelines. Currently, leading a full-stack team deliver consumer facing digital applications for insurance products.
-  I am a polyglot programmer with experience building apps using various languages from the ground up.
+  Senior Software Engineer with 10 years experience working in technology. Over the last decade, I have designed and delivered enterprise solutions for enterprises involving web/server side applications developed from scratch, delivered human centered digital experiences, orchestrated enterprise API's and systems integrations and built seamless automation pipelines. Currently, leading a full-stack team deliver consumer facing digital applications for insurance products.
+  I am a polyglot programmer with experience building apps using various languages from the ground up. I thrive on solving complex problems through code, improving solution architecture and reducing technical debt.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
