@@ -33,7 +33,7 @@ skills:
 
 #Work experience is required
 roles:
- - title: Senior Applications Development Engineer
+ - title: Sr. App Dev Engineer
    start: 2019
    end: Ongoing
    employer: CopperPoint Insurance Companies
@@ -43,7 +43,7 @@ roles:
    end: 2019
    employer: CGI Technologies and solutions
    description: Technical Lead for CGI clients for multiple engagements responsible for building solution architecture, developing new ideas, proof of concepts on emerging technologies, leading development activities, managing technical risks, tracking engagement budget, providing technical recommendations and ensuring process compliance.
- - title: Senior Engineer
+ - title: Senior Associate
    start: 2016
    end: 2018
    employer: PricewaterHouseCoppers
@@ -77,7 +77,7 @@ intro: |
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <strong>Cloud platforms</strong>: Certified on Azure and AWS
-   <strong>Web Development</strong>: Experience in Angular, Angular JS, React, Cordova
+   <strong>Cloud platforms</strong>: Certified on Azure and AWS </br>
+   <strong>Web Development</strong>: Experience in Angular, Angular JS, React, Cordova</br>
    <strong>Development Control</strong>: Project experience in various tools like Jenkins, GIT, JIRA, Swagger, Maven .<br/><br/>
  
