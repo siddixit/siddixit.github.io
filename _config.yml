@@ -51,7 +51,7 @@ roles:
  - title: Senior Associate
    start: 2009
    end: 2012
-   employer: Infosys
+   employer: Infosys Technologies Limited
    description: Senior Software Engineer for Infosys clients in High Tech manufacturing sector.
 
 #Education is required
@@ -79,5 +79,5 @@ intro: |
 additionalinfo: |
    <strong>Cloud platforms</strong>: Certified on Azure and AWS
    <strong>Web Development</strong>: Experience in Angular, Angular JS, React, Cordova
-   <strong>Development Control</strong>: Project experience in various tools like Jenkins, GIT, JIRA, Swagger .<br/><br/>
+   <strong>Development Control</strong>: Project experience in various tools like Jenkins, GIT, JIRA, Swagger, Maven .<br/><br/>
  
