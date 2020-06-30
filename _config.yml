@@ -73,10 +73,11 @@ github:
 
 intro: |
   I am a Senior Software Engineer with 10 years experience working in technology. Over the last decade, I have designed and shipped enterprise solutions for fortune 500 companies involving web/server side applications developed from scratch, delivered human centered digital experiences, orchestrated enterprise API's and systems integrations and built seamless automation pipelines. Currently, leading a full-stack team deliver consumer facing digital applications for insurance products.
+  I am a polyglot programmer with experience building apps using various languages from the ground up.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
    <strong>Cloud platforms</strong>: Certified on Azure and AWS
-   <strong>Web Development</strong>: 
+   <strong>Web Development</strong>: Experience in Angular, Angular JS, React, Cordova
    <strong>Development Control</strong>: Project experience in various tools like Jenkins, GIT, JIRA, Swagger .<br/><br/>
  
