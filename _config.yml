@@ -9,22 +9,20 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: GitHub
-   url: https://github.com/robhinds
- - title: StackOverflow
-   url: https://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://github.com/siddixit
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: https://www.linkedin.com/in/siddixit
 
 #Any buzzword skills you want to include
 skills:
  - Python
  - Java
+ - Gosu
  - Microservices
  - Javascript (ES8, React, Angular)
  - API design
- - Spring MVC/Boot/Social
+ - Spring MVC/Boot
+ - Kotlin
  - Gradle
  - JPA
  - SQL/NoSQL
@@ -35,26 +33,26 @@ skills:
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
+ - title: Senior Applications Development Engineer
+   start: 2019
    end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
+   employer: CopperPoint Insurance Companies
+   description: Building and managing public consumer facing digital products of CopperPoint on web and mobile that has countrywide daily active users. Website: <a href="https://www.copperpoint.com" taget="_blank">CopperPoint Insurance</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
+ - title: Senior Consultant
+   start: 2018
+   end: 2019
+   employer: CGI Technologies and solutions
+   description: Technical Lead for CGI clients for multiple engagements responsible for building solution architecture, developing new ideas, proof of concepts on emerging technologies, leading development activities, managing technical risks, tracking engagement budget, providing technical recommendations and ensuring process compliance.
  - title: Senior Engineer
    start: 2016
-   end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
+   end: 2018
+   employer: PricewaterHouseCoppers
+   description: Senior Software Engineer within Application and Emerging Technology services, I was provided with a unique opportunity to help our clients identify and prioritize emerging technologies that can help solve their business problems
+ - title: Senior Associate
+   start: 2009
    end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+   employer: Infosys
+   description: Senior Software Engineer for Infosys clients in High Tech manufacturing sector.
 
 #Education is required
 education:
