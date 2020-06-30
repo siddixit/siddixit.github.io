@@ -19,6 +19,8 @@ skills:
  - Java
  - Gosu
  - Microservices
+ - AWS
+ - Azure
  - Javascript (ES8, React, Angular)
  - API design
  - Spring MVC/Boot
@@ -37,7 +39,7 @@ roles:
    start: 2019
    end: Ongoing
    employer: CopperPoint Insurance Companies
-   description: Building and managing public consumer facing digital products of <a href="www.copperpoint.com">CopperPoint</a> on web and mobile that has countrywide daily active users.
+   description: Building and managing public consumer facing digital products of CopperPoint on web and mobile that has countrywide daily active users. The application has React on front-end interfacing with Guidwire Insurance suite applications.
  - title: Senior Consultant
    start: 2018
    end: 2019
@@ -79,5 +81,5 @@ intro: |
 additionalinfo: |
    <strong>Cloud platforms</strong>: Certified on Azure and AWS </br>
    <strong>Web Development</strong>: Experience in Angular, Angular JS, React, Cordova</br>
-   <strong>Development Control</strong>: Project experience in various tools like Jenkins, GIT, JIRA, Swagger, Maven .<br/><br/>
+   <strong>Development Control</strong>: Project experience in various tools like Jenkins, GIT, JIRA, Swagger, Maven.<br/><br/>
  
